@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Backend+%26+AI+Engineer;Building+AI+Applications+%26+Automations;Exploring+Agentic+AI+%26+LLMs;Python+%7C+FastAPI+%7C+RAG+%7C+n8n+%7C+MCP" alt="Typing SVG" />
 
 <p>
-  <b>Building practical software by combining backend engineering, AI, automation, and intelligent workflows.</b>
+  <b>Building practical software by combining backend Engineering, AI, Automation, and Intelligent Workflows.</b>
 </p>
 
 <p>
